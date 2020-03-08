@@ -6,6 +6,6 @@ function updatePlaylist( playlist, ok, what) {
 }
 
 function removeFromPlaylist (playlist, artistName) {
-  delete playlist.ok;
+  delete playlist.Slowdive;
   return playlist
 }
